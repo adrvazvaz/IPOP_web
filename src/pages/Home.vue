@@ -109,7 +109,7 @@
                 <v-spacer></v-spacer>
                 <a href="/assets/ipops/ipop1.pdf" target="_blank" class="btn-pdf d-flex align-center btn-primary px-4 py-2 text-decoration-none rounded">
                   <v-icon class="mr-2">mdi-file-pdf-box</v-icon>
-                  Veure IPOP 1
+                  IPOP 1
                 </a>
               </v-card-actions>
             </v-card>
@@ -131,7 +131,7 @@
                 <v-spacer></v-spacer>
                 <a href="/assets/ipops/ipop2.pdf" target="_blank" class="btn-pdf d-flex align-center btn-primary px-4 py-2 text-decoration-none rounded">
                   <v-icon class="mr-2">mdi-file-pdf-box</v-icon>
-                  Veure IPOP 2
+                  IPOP 2
                 </a>
               </v-card-actions>
             </v-card>
